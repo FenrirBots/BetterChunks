@@ -1,7 +1,7 @@
 @echo off
 
-set GRADLE_PATH="%cd%/gradlew.bat"
+set GRADLE="%cd%/gradlew.bat"
 
-call %GRADLE_PATH% build
+call %GRADLE% build
 
 if [%errorlevel%]==[1] pause

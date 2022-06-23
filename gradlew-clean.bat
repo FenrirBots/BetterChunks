@@ -1,5 +1,7 @@
 @echo off
 
-set GRADLE_PATH="%cd%/gradlew.bat"
+set GRADLE="%cd%/gradlew.bat"
 
-call %GRADLE_PATH% clean
+call %GRADLE% clean
+
+if [%errorlevel%]==[1] pause
