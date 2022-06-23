@@ -1,0 +1,7 @@
+# Files
+gradlew.bat
+
+# Folders
+.gradle\
+.idea\
+.vscode\
