@@ -1,7 +1,7 @@
 {
   "compatibilityLevel": "JAVA_8",
 
-  "package": "me.fenrirbots.betterchunks.mixin",
+  "package": "net.fenrirbots.betterchunks.mixin",
   "refmap": "mixins.refmap.json",
   "client": [
     "",

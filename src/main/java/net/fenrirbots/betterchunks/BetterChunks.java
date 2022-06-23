@@ -7,7 +7,7 @@ import net.minecraftforge.fml.common.Mod.EventHandler;
 import net.minecraftforge.fml.common.Mod;
 
 @Mod(modid = "betterchunks", useMetadata = true, clientSideOnly = true)
-public class FML
+public class BetterChunks
 {
     @EventHandler
     public void preInit(FMLPreInitializationEvent event) {
