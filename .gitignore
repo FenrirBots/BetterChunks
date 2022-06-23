@@ -2,6 +2,6 @@
 gradlew.bat
 
 # Folders
-.gradle\
-.idea\
-.vscode\
+.gradle/
+.idea/
+.vscode/
