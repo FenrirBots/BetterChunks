@@ -15,7 +15,7 @@ public class BetterChunks
     }
 
     @EventHandler
-    public void init(FMLPreInitializationEvent event) {
+    public void init(FMLInitializationEvent event) {
 
     }
 
